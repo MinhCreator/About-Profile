@@ -7,7 +7,7 @@
 </div>
 
 ### My Neovim Configuration 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MinhCreator&repo=lazyvim-config&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhCreator&repo=lazyvim-config&show_owner=true"/> 
 
 ### My Tools
 <p align="left">
