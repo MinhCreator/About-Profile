@@ -10,14 +10,14 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MinhCreator&repo=lazyvim-config&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Tools
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,neovim,godot,vscode,vscodium" />
   </a>
 </p>
 
 ### My OS used
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,arch" />
   </a>
