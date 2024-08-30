@@ -1,9 +1,9 @@
 # I'am MinhCreatorVN 👋
 
 ### My stats ⭐
-<div align="center">
-<img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MinhCreator&show_icons=true&theme=default"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhCreator&layout=compact&&langs_count=8"/>
+<div align="left">
+<img alt="My GitHub stats" with ="50%" src="https://github-readme-stats.vercel.app/api?username=MinhCreator&show_icons=true&theme=default"/>
+<img alt="Top langs" with ="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhCreator&layout=compact&&langs_count=8"/>
 </div>
 
 ### My Neovim Configuration 
